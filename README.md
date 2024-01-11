@@ -1,6 +1,6 @@
 # Hybrid Plasticity
 
-![[Model](https://github.com/rkalahasty/Neuroplasticity/blob/main/Screenshot%202024-01-10%20205619.png)
+![Model](https://github.com/rkalahasty/Neuroplasticity/blob/main/Screenshot%202024-01-10%20205619.png)
 
 This is the code for the Hybrid Plasticity project. Here are some general notes:
 
