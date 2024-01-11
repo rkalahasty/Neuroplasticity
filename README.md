@@ -1,5 +1,7 @@
 # Hybrid Plasticity
 
+![Model]([Paste_link_here](https://github.com/rkalahasty/Neuroplasticity/blob/main/Screenshot%202024-01-10%20205619.png))
+
 This is the code for the Hybrid Plasticity project. Here are some general notes:
 
 The code in the Biological Studies was developed almost solely by me, this is where the large majority of important findings in this project
